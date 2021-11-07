@@ -1,180 +1,180 @@
-Uri: https://MetaInu.co/
-File Name: C:\Downloaded Web Sites\MetaInu.co\index.htm
+Uri: https://TheMetaInu.co/
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\index.htm
 Content Type: text/html
 
-Uri: https://MetaInu.co/css/style.css
-File Name: C:\Downloaded Web Sites\MetaInu.co\css\style.css
+Uri: https://TheMetaInu.co/css/style.css
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\css\style.css
 Content Type: text/css
 
-Uri: https://MetaInu.co/img/favicon.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\favicon.png
+Uri: https://TheMetaInu.co/img/favicon.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\favicon.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/files/whitepaper.pdf
-File Name: C:\Downloaded Web Sites\MetaInu.co\files\whitepaper.pdf
+Uri: https://TheMetaInu.co/files/whitepaper.pdf
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\files\whitepaper.pdf
 Content Type: application/pdf
 
 Uri: https://app.uniswap.org/
-File Name: C:\Downloaded Web Sites\MetaInu.co\index-1.htm
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\index-1.htm
 Content Type: text/html
 
 Uri: https://www.dextools.io/app/uniswap/pair-explorer/0xb8ec4eb95d104753747bc689e6e997a637245bbd
-File Name: C:\Downloaded Web Sites\MetaInu.co\app\uniswap\pair-explorer\0xb8ec4eb95d104753747bc689e6e997a637245bbd.html
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\app\uniswap\pair-explorer\0xb8ec4eb95d104753747bc689e6e997a637245bbd.html
 Content Type: text/html
 
-Uri: https://www.coingecko.com/en/coins/MetaInu
-File Name: C:\Downloaded Web Sites\MetaInu.co\en\coins\MetaInu.html
+Uri: https://www.coingecko.com/en/coins/TheMetaInu
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\en\coins\TheMetaInu.html
 Content Type: text/html
 
-Uri: https://coinmarketcap.com/currencies/MetaInu/
-File Name: C:\Downloaded Web Sites\MetaInu.co\currencies\MetaInu\index.htm
+Uri: https://coinmarketcap.com/currencies/TheMetaInu/
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\currencies\TheMetaInu\index.htm
 Content Type: text/html
 
-Uri: https://blockfolio.com/coin/MetaInu
-File Name: C:\Downloaded Web Sites\MetaInu.co\coin\MetaInu.html
+Uri: https://blockfolio.com/coin/TheMetaInu
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\coin\TheMetaInu.html
 Content Type: text/html
 
 Uri: https://app.1inch.io/
-File Name: C:\Downloaded Web Sites\MetaInu.co\index-2.htm
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\index-2.htm
 Content Type: text/html
 
-Uri: https://bilaxy.com/trade/MetaInu_ETH
-File Name: C:\Downloaded Web Sites\MetaInu.co\trade\MetaInu_ETH.html
+Uri: https://bilaxy.com/trade/TheMetaInu_ETH
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\trade\TheMetaInu_ETH.html
 Content Type: text/html
 
 Uri: https://www.cointiger.com/en-us/
-File Name: C:\Downloaded Web Sites\MetaInu.co\en-us\index.htm
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\en-us\index.htm
 Content Type: text/html
 
-Uri: https://MetaInu.medium.com/
-File Name: C:\Downloaded Web Sites\MetaInu.co\index-3.htm
+Uri: https://TheMetaInu.medium.com/
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\index-3.htm
 Content Type: text/html
 
-Uri: https://twitter.com/MetaInu
-File Name: C:\Downloaded Web Sites\MetaInu.co\MetaInu.html
+Uri: https://twitter.com/TheMetaInu
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\TheMetaInu.html
 Content Type: text/html
 
 Uri: https://www.googletagmanager.com/gtag/js?id=UA-204340165-1
-File Name: C:\Downloaded Web Sites\MetaInu.co\gtag\js.js
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\gtag\js.js
 Content Type: application/javascript
 
 Uri: https://kit.fontawesome.com/591ca88306.js
-File Name: C:\Downloaded Web Sites\MetaInu.co\591ca88306.js
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\591ca88306.js
 Content Type: text/javascript
 
-Uri: https://MetaInu.co/img/logo.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\logo.png
+Uri: https://TheMetaInu.co/img/logo.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\logo.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/banner-MetaInu.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\banner-MetaInu.png
+Uri: https://TheMetaInu.co/img/banner-TheMetaInu.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\banner-TheMetaInu.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/ethereum.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\ethereum.png
+Uri: https://TheMetaInu.co/img/ethereum.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\ethereum.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/section-two-project.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\section-two-project.png
+Uri: https://TheMetaInu.co/img/section-two-project.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\section-two-project.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/section-two-heart.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\section-two-heart.png
+Uri: https://TheMetaInu.co/img/section-two-heart.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\section-two-heart.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/shiba-inu.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\shiba-inu.png
+Uri: https://TheMetaInu.co/img/shiba-inu.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\shiba-inu.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/akita-inu.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\akita-inu.png
+Uri: https://TheMetaInu.co/img/akita-inu.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\akita-inu.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/doge-coin.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\doge-coin.png
+Uri: https://TheMetaInu.co/img/doge-coin.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\doge-coin.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/ecosystem.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\ecosystem.png
+Uri: https://TheMetaInu.co/img/ecosystem.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\ecosystem.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/community.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\community.png
+Uri: https://TheMetaInu.co/img/community.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\community.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/meme-based.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\meme-based.png
+Uri: https://TheMetaInu.co/img/meme-based.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\meme-based.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/total-supply.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\total-supply.png
+Uri: https://TheMetaInu.co/img/total-supply.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\total-supply.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/fifty-per-total-supply.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\fifty-per-total-supply.png
+Uri: https://TheMetaInu.co/img/fifty-per-total-supply.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\fifty-per-total-supply.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/fifty-per-supply.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\fifty-per-supply.png
+Uri: https://TheMetaInu.co/img/fifty-per-supply.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\fifty-per-supply.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/coingecko.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\coingecko.png
+Uri: https://TheMetaInu.co/img/coingecko.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\coingecko.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/coinmarketcap.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\coinmarketcap.png
+Uri: https://TheMetaInu.co/img/coinmarketcap.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\coinmarketcap.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/blockfolio.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\blockfolio.png
+Uri: https://TheMetaInu.co/img/blockfolio.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\blockfolio.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/uniswap.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\uniswap.png
+Uri: https://TheMetaInu.co/img/uniswap.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\uniswap.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/linch.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\linch.png
+Uri: https://TheMetaInu.co/img/linch.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\linch.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/bilaxy.webp
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\bilaxy.webp
+Uri: https://TheMetaInu.co/img/bilaxy.webp
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\bilaxy.webp
 Content Type: image/webp
 
-Uri: https://MetaInu.co/img/cointiger.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\cointiger.png
+Uri: https://TheMetaInu.co/img/cointiger.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\cointiger.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/footer-bubble.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\footer-bubble.png
+Uri: https://TheMetaInu.co/img/footer-bubble.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\footer-bubble.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/footer-plane.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\footer-plane.png
+Uri: https://TheMetaInu.co/img/footer-plane.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\footer-plane.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/js/script.js
-File Name: C:\Downloaded Web Sites\MetaInu.co\js\script.js
+Uri: https://TheMetaInu.co/js/script.js
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\js\script.js
 Content Type: application/javascript
 
 Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
-File Name: C:\Downloaded Web Sites\MetaInu.co\css2.css
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\css2.css
 Content Type: text/css
 
-Uri: https://MetaInu.co/img/banner-bg.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\banner-bg.png
+Uri: https://TheMetaInu.co/img/banner-bg.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\banner-bg.png
 Content Type: image/png
 
-Uri: https://MetaInu.co/img/bg-shape-min.png
-File Name: C:\Downloaded Web Sites\MetaInu.co\img\bg-shape-min.png
+Uri: https://TheMetaInu.co/img/bg-shape-min.png
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\img\bg-shape-min.png
 Content Type: image/png
 
 Uri: https://discord.com/invite/Hu4F8AFjXZ
-File Name: C:\Downloaded Web Sites\MetaInu.co\invite\Hu4F8AFjXZ.html
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\invite\Hu4F8AFjXZ.html
 Content Type: text/html
 
-Uri: https://www.instagram.com/MetaInu/?igshid=1e53qr6qeld6x
-File Name: C:\Downloaded Web Sites\MetaInu.co\MetaInu\index.htm
+Uri: https://www.instagram.com/TheMetaInu/?igshid=1e53qr6qeld6x
+File Name: C:\Downloaded Web Sites\TheMetaInu.co\TheMetaInu\index.htm
 Content Type: text/html
 
